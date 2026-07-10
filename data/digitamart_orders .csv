@@ -1,0 +1,327 @@
+order_id,order_date,city,product_category,product_name,order_total,delivery_minutes,customer_rating,payment_method,customer_age
+1001,2024-11-23,Cairo,Electronics,USB-C Cable,425.15,26,5,Wallet,18
+1002,2024-08-04,Cairo,Food & Groceries,Olive Oil 1L,232.62,137,4,Wallet,63
+1003,2025-01-30,Giza,Food & Groceries,Spice Set,131.09,38,2,Credit Card,21
+1004,2024-06-10,Giza,Clothing,Leather Belt,1609.73,55,3,Bank Transfer,26
+1005,2024-01-25,Aswan,Electronics,Power Bank,4483.71,22,5,Wallet,150
+1006,2025-01-04,Cairo,Books,Self-Help Guide,111.97,155,,Wallet,37
+1007,2024-10-17,Aswan,Clothing,Denim Jacket,1712.3,175,5,Wallet,60
+1008,2024-09-21,cairo,Clothing,Summer Dress,267.14,28,2,Credit Card,54
+1009,2024-08-30,GIZA,Books,History Book,353.7,45,1,Bank Transfer,29
+1010,2024-02-08,Aswan,Electronics,Wireless Earbuds,3864.52,74,2,Wallet,47
+1011,2025-01-09,Giza,Clothing,Cotton T-Shirt,1044.62,169,5,Cash,22
+1012,2024-04-30,Cairo,Electronics,Power Bank,2673.95,100,3,cash,57
+1013,2024-02-07,Cairo,Clothing,Running Shoes,873.0,1167,1,Cash,65
+1014,2024-11-05,Aswan,Food & Groceries,Honey Jar,513.82,90,2,Bank Transfer,45
+1015,2024-12-19,Alexandria,Clothing ,Dates Box,543.43,111,1,Bank Transfer,65
+1016,2024-03-24,Giza,Food & Groceries,Spice Set,494.02,47,4,Bank Transfer,32
+1017,2024-07-23,Aswan,Food & Groceries,Spice Set,340.28,86,3,Wallet,38
+1018,2024-02-29,Cairo,Clothing,Running Shoes,1715.64,51,3,Wallet,30
+1019,2024-12-12,Cairo,Books,Children's Storybook,327.16,133,4,Credit Card,36
+1020,2024-06-20,Alexandria,clothing,Cotton T-Shirt,1158.6,167,4,Cash,24
+1021,2024-12-22,Mansoura,Clothing,Wool Scarf,1780.02,133,5,Bank Transfer,65
+1022,2025-01-19,Alexandria,Clothing ,History Book,139.73,40,2,Bank Transfer,47
+1023,2024-08-03,Aswan,Clothing ,Rice 5kg,207.22,127,5,Wallet,19
+1024,2024-07-26,Aswan,Electronics,Power Bank,3084.6,138,3,Bank Transfer,44
+1025,2024-01-10,Cairo,ELECTRONICS,Smartwatch,1137.31,52,2,Wallet,56
+1026,2025-02-02,cairo,Books,Self-Help Guide,385.78,39,2,Cash,54
+1027,2024-08-07,Mansoura,Food & Groceries,Olive Oil 1L,242.83,59,3,Bank Transfer,64
+1028,2024-05-05,Mansoura,Food & groceries,Honey Jar,222.01,86,3,Credit Card,64
+1029,2024-05-03,Cairo,Books,Cookbook,142.72,161,5,Wallet,32
+1030,2024-03-02,Mansoura,Books,Self-Help Guide,238.38,69,,Credit Card,21
+1031,2024-03-05,cairo,Books,History Book,175.84,142,4,Cash,54
+1032,2024-05-07,Alexandria,Food & Groceries,Rice 5kg,206.52,165,1,Credit Card,23
+1033,2024-02-08,Cairo,Clothing,Running Shoes,1309.93,87,2,Credit Card,27
+1034,2024-06-06,Mansoura,Books,History Book,230.16,30,5,Cash,61
+1035,2025-01-25,Alexandria,Food & Groceries,Spice Set,582.67,102,3,Bank Transfer,53
+1036,2024-05-09,Cairo,Books,Rice 5kg,242.6,33,3,cash,58
+1037,22/03/2024,Cairo,Food & Groceries,Olive Oil 1L,126.22,89,4,Bank Transfer,56
+1038,2024-02-05,Aswan,Books,Arabic Novel,161.51,145,4,Bank Transfer,38
+1039,2024-05-02,Mansoura,Food & Groceries,Rice 5kg,483.74,29,3,Bank Transfer,47
+1040,2024-12-01,Aswan,Food & Groceries,Spice Set,224.0,101,4,Cash,61
+1041,2025-01-17,Cairo,Food & Groceries,Dates Box,545.92,95,2,Credit Card,23
+1042,2024-12-15,Giza,Food & Groceries,Honey Jar,543.39,159,3,Bank Transfer,47
+1043,2024-07-15,Giza,Books,Arabic Novel,283.8,32,3,Wallet,30
+1044,2025-01-04,Cairo,Clothing ,History Book,309.0,126,5,Wallet,34
+1045,2024-05-31,CAIRO,Clothing,Denim Jacket,1344.96,162,1,Wallet,61
+1046,2024-11-22,Aswan,Books,Self-Help Guide,81.49,97,1,Bank Transfer,33
+1047,2024-08-20,Aswan,Clothing,Wool Scarf,1525.59,91,4,Wallet,61
+1048,2024-11-26,Mansoura,Electronics,Laptop Stand,2985.87,105,5,Credit Card,32
+1049,,Alexandria,Books,Cookbook,354.59,80,3,Cash,48
+1050,2024-10-30,Aswan,Books,History Book,70.59,129,4,Credit Card,35
+1051,2024-12-30,Aswan,Food & Groceries,Olive Oil 1L,104.07,161,4,Bank Transfer,64
+1052,2024-12-06,Cairo,Electronics,Wireless Earbuds,3427.27,35,3,Bank Transfer,64
+1053,2024-06-08,Alexandria,Electronics,Smartphone Case,1843.76,129,5,Cash,60
+1054,2024-04-02,Alexandria,Clothing,Summer Dress,264.82,43,4,Wallet,54
+1055,2024-03-20,Mansoura,Food & Groceries,Tea Pack,192.97,130,5,Cash,56
+1056,2024-04-18,Mansoura,Food & Groceries,Dates Box,338.25,110,1,Cash,54
+1057,2024-11-23,Giza,Clothing,Summer Dress,1287.86,47,5,Wallet,28
+1058,2024-09-28,Alexandria,Clothing,Cotton T-Shirt,475.5,39,4,Bank Transfer,54
+1059,2024-06-14,Mansoura,Books,Children's Storybook,179.66,29,1,Cash,50
+1060,2025-01-13,Giza,Food & Groceries,Tea Pack,74.65,107,2,Bank Transfer,57
+1061,2024-05-24,Giza,Electronics,Smartphone Case,3149.19,174,5,Wallet,62
+1062,2024-12-28,Alexandria,Electronics,Laptop Stand,2435.65,74,2,Cash,24
+1063,13/01/2025,Alexandria,Food & Groceries,Dates Box,505.55,62,3,Bank Transfer,65
+1064,2024-05-02,Giza,Food & Groceries,Rice 5kg,475.75,61,2,Bank Transfer,53
+1065,2024-09-21,Aswan,Clothing,Wool Scarf,1652.33,26,3,Wallet,38
+1066,2024-11-28,Mansoura,Clothing,Leather Belt,1165.32,75,5,Wallet,25
+1067,2024-11-14,Cairo,Clothing,Leather Belt,858.24,126,5,Cash,48
+1068,10/07/2024,Cairo,Books,Cookbook,175.11,138,2,bank transfer,30
+1069,2024-01-22,Mansoura,Books,Arabic Novel,124.98,104,4,Bank Transfer,29
+1070,2024-09-22,Alexandria,Books,Children's Storybook,171.49,129,4,Wallet,45
+1071,2024-01-30,Alexandria,Electronics,Bluetooth Speaker,3147.97,80,4,Credit Card,41
+1072,2024-10-20,Cairo,Electronics,Laptop Stand,2474.53,86,5,Bank Transfer,26
+1073,2024-12-31,Giza,Books,Arabic Novel,158.72,64,1,Credit Card,19
+1074,2024-08-27,Giza,Food & Groceries,Spice Set,334.39,38,1,Wallet,53
+1075,2024-03-07,CAIRO,Clothing,Running Shoes,682.39,152,3,Wallet,37
+1076,2024-11-24,Aswan,Food & groceries,Self-Help Guide,69.65,167,5,Bank Transfer,52
+1077,2024-09-04,Cairo,Clothing,Wool Scarf,916.33,101,4,Cash,47
+1078,2024-03-13,Alexandria,Clothing,Running Shoes,1339.86,151,4,Bank Transfer,31
+1079,2024-05-24,Aswan,Electronics,Smartwatch,862.53,123,5,Wallet,50
+1080,2024-11-15,Giza,Books,Cookbook,233.1,55,5,Credit Card,57
+1081,2024-11-11,Aswan,Food & Groceries,Spice Set,305.94,48,1,Credit Card,55
+1082,2025-01-04,Cairo,Clothing ,Bluetooth Speaker,2058.88,148,1,Wallet,48
+1083,2024-03-29,Giza,Food & Groceries,Dates Box,196.24,96,4,Wallet,54
+1084,2024-07-21,Giza,Electronics,Smartphone Case,3055.08,157,3,Credit Card,60
+1085,2024-04-29,Alexandria,Electronics,USB-C Cable,963.35,141,3,Cash,32
+1086,2024-01-20,Cairo,Food & Groceries,Rice 5kg,459.44,1181,3,Bank Transfer,26
+1087,2024-04-08,Alexandria,Electronics,Laptop Stand,1539.1,176,4,Cash,26
+1088,2024-01-04,Giza,Electronics,Smartphone Case,3209.63,98,3,Wallet,32
+1089,2024-03-19,Mansoura,Clothing,Denim Jacket,1133.09,155,5,Credit Card,27
+1090,2024-08-14,Aswan,Food & Groceries,Olive Oil 1L,327.42,138,1,Credit Card,20
+1091,2024-10-04,Mansoura,Electronics,Smartphone Case,3529.68,127,4,Bank Transfer,60
+1092,2024-06-27,Alexandria,Clothing ,Smartwatch,2244.62,117,3,cash,60
+1093,2024-01-09,Cairo,clothing,Leather Belt,536.66,34,2,Wallet,61
+1094,2024-03-14,Aswan,Clothing,Leather Belt,1067.15,117,4,Credit Card,48
+1095,2024-12-28,GIZA,Food & Groceries,Tea Pack,257.51,40,1,Cash,61
+1096,2024-02-07,Mansoura,Clothing,Running Shoes,1649.84,50,2,Bank Transfer,53
+1097,2024-08-26,Mansoura,Food & Groceries,Olive Oil 1L,444.55,72,5,Cash,55
+1098,2024-03-19,Aswan,Books,Children's Storybook,226.13,137,2,Credit Card,52
+1099,2024-09-25,Cairo,Food & Groceries,Dates Box,-169.6,149,5,cash,53
+1100,2025-01-04,GIZA,Clothing,Cotton T-Shirt,1015.24,84,4,Bank Transfer,62
+1101,2024-02-11,Mansoura,Food & Groceries,Tea Pack,396.58,131,1,Credit Card,62
+1102,2024-01-24,Cairo,ELECTRONICS,Running Shoes,1118.61,121,5,Bank Transfer,52
+1103,2024-03-12,Giza,Electronics,Wireless Earbuds,3822.43,172,1,Bank Transfer,40
+1104,2024-04-05,Aswan,Books,Cookbook,87.89,59,1,Bank Transfer,35
+1105,2024-08-08,Giza,Electronics,USB-C Cable,1662.61,119,5,Credit Card,28
+1106,2024-09-09,Cairo,Books,Children's Storybook,305.11,137,4,Wallet,45
+1107,2024-10-31,Giza,Clothing,Wool Scarf,630.89,167,3,Cash,30
+1108,15/12/2024,Alexandria,Food & Groceries,Honey Jar,78.73,147,3,Bank Transfer,56
+1109,2024-09-16,Giza,Electronics,Wireless Earbuds,3061.93,31,4,Bank Transfer,24
+1110,2024-09-22,Mansoura,Clothing,Running Shoes,946.57,41,2,Credit Card,40
+1111,2024-12-22,CAIRO,Electronics,Smartwatch,759.32,82,3,Credit Card,58
+1112,2024-08-09,Mansoura,Food & Groceries,Olive Oil 1L,155.24,36,5,Bank Transfer,60
+1113,2024-11-23,Giza,Food & Groceries,Tea Pack,417.21,171,1,Wallet,50
+1114,2024-10-21,Alexandria,Clothing,Wool Scarf,458.71,111,2,Bank Transfer,49
+1115,2024-09-07,Cairo,Books,Cookbook,117.19,146,1,Wallet,20
+1116,2024-04-21,Giza,Electronics,Power Bank,3921.24,50,5,Bank Transfer,26
+1117,2024-01-31,Giza,Books,Self-Help Guide,351.73,44,4,Credit Card,26
+1118,2024-05-06,Giza,Food & Groceries,Rice 5kg,394.83,151,3,Cash,64
+1119,2024-11-21,mansoura,Food & Groceries,Dates Box,501.91,92,5,cash,58
+1120,2024-03-04,Mansoura,Clothing,Leather Belt,1605.54,90,1,Credit Card,58
+1121,2024-04-29,Alexandria,Food & Groceries,Olive Oil 1L,-166.67,107,4,Credit Card,64
+1122,2024-07-07,Alexandria,Clothing,Cotton T-Shirt,163.98,74,4,Credit Card,24
+1123,2025-01-08,Giza,Electronics,Bluetooth Speaker,2820.03,26,3,Credit Card,36
+1124,2024-05-02,Aswan,Electronics,Smartphone Case,854.33,113,4,Cash,18
+1125,2024-01-31,Mansoura,Food & Groceries,Spice Set,398.7,41,2,Wallet,58
+1126,2024-11-25,Cairo,Clothing,Cotton T-Shirt,341.38,64,1,Wallet,26
+1127,2025-01-10,GIZA,food & groceries,Self-Help Guide,391.52,150,5,Cash,61
+1128,,Cairo,Food & Groceries,Honey Jar,124.05,161,4,Wallet,22
+1129,2024-12-10,Mansoura,Electronics,Power Bank,3548.82,805,3,Wallet,49
+1130,2025-01-10,,Food & Groceries,Olive Oil 1L,234.0,985,3,Credit Card,21
+1131,2024-05-23,Giza,Food & Groceries,Spice Set,93.52,39,2,Wallet,43
+1132,2024-06-11,Aswan,Electronics,Bluetooth Speaker,2188.18,111,3,Cash,61
+1133,2024-11-04,Alexandria,Books,History Book,290.24,27,5,Bank Transfer,26
+1134,2025-02-03,Cairo,electronics,Arabic Novel,127.24,43,3,Cash,54
+1135,2024-09-11,Alexandria,Books,Children's Storybook,110.53,95,4,Credit Card,59
+1136,2024-11-18,GIZA,Books,History Book,224.79,119,5,Wallet,48
+1137,2024-04-29,Cairo,Clothing,Summer Dress,1465.69,64,3,Wallet,54
+1138,2024-09-09,cairo,Clothing,Summer Dress,,177,2,Wallet,27
+1139,2025-01-31,Mansoura,Electronics,Smartphone Case,873.1,144,5,Wallet,55
+1140,2025-01-10,Aswan,Books,Tea Pack,218.2,164,3,Wallet,23
+1141,2025-01-08,Cairo,Books,Children's Storybook,304.94,127,4,Bank Transfer,48
+1142,2025-01-23,cairo,Books,Arabic Novel,383.57,116,1,Bank Transfer,45
+1143,2024-08-10,Aswan,Books,Children's Storybook,92.61,145,4,Bank Transfer,19
+1144,2024-02-11,Giza,Electronics,Laptop Stand,1076.5,134,3,Cash,62
+1145,2024-06-25,Cairo,Food & Groceries,Tea Pack,339.89,80,1,Credit Card,46
+1146,2024-04-18,Mansoura,Clothing,Leather Belt,1131.83,37,5,Bank Transfer,18
+1147,2024-09-24,Aswan,Electronics,Wireless Earbuds,724.16,108,4,Credit Card,27
+1148,2024-07-24,Mansoura,Food & groceries,Children's Storybook,329.84,45,3,Wallet,44
+1149,2024-08-14,Giza,Electronics,USB-C Cable,575.59,154,2,Cash,47
+1150,2024-04-11,Cairo,Electronics,Bluetooth Speaker,2794.98,170,3,wallet,21
+1151,2024-04-19,Mansoura,Electronics,Smartwatch,,53,1,Wallet,63
+1152,2024-07-11,Aswan,Food & Groceries,Tea Pack,326.45,115,3,Cash,35
+1153,2024-05-13,Aswan,Clothing,Cotton T-Shirt,1473.9,55,3,Bank Transfer,55
+1154,2024-04-07,Mansoura,Books,Self-Help Guide,117.8,95,3,Credit Card,39
+1155,2024-04-24,Giza,Books,History Book,219.98,178,5,Wallet,27
+1156,2024-07-28,Alexandria,Electronics,Power Bank,4443.89,135,2,Cash,45
+1157,01/09/2024,Cairo,Books,Self-Help Guide,290.09,108,5,Cash,36
+1158,2024-09-25,Mansoura,Books,Cookbook,368.34,77,1,Wallet,20
+1159,29/01/2025,Cairo,Electronics,Laptop Stand,2166.12,59,1,Wallet,62
+1160,2024-02-23,Mansoura,Clothing,Summer Dress,583.94,124,4,Bank Transfer,18
+1161,2024-02-26,Aswan,Electronics,Laptop Stand,4100.07,95,2,Wallet,38
+1162,23/01/2025,Giza,Books,History Book,151.23,107,4,Bank Transfer,59
+1163,2024-03-08,Mansoura,Food & Groceries,Tea Pack,141.51,27,2,Bank Transfer,22
+1164,2024-12-26,Alexandria,Books,Self-Help Guide,298.2,83,4,cash,28
+1165,2024-09-10,Giza,Electronics,USB-C Cable,3001.93,137,1,Cash,65
+1166,2024-07-30,Aswan,Books,Self-Help Guide,282.56,33,3,Bank Transfer,41
+1167,23/01/2025,Giza,ELECTRONICS,Arabic Novel,227.42,124,2,Credit Card,30
+1168,2024-07-31,Mansoura,Food & Groceries,Spice Set,-322.35,32,5,Credit Card,29
+1169,2024-07-17,Mansoura,Clothing,Running Shoes,715.72,55,5,Wallet,53
+1170,2024-11-15,Alexandria,Books,Arabic Novel,251.18,126,5,Cash,19
+1171,2024-01-29,Giza,Clothing,Cotton T-Shirt,636.98,135,5,Bank Transfer,62
+1172,2024-07-14,Aswan,Electronics,Wireless Earbuds,1152.97,133,3,Credit Card,30
+1173,2024-12-15,Cairo,Food & Groceries,Honey Jar,112.84,104,1,Cash,58
+1174,2024-09-08,Giza,Clothing,Denim Jacket,1447.33,123,2,Wallet,57
+1175,20/01/2025,Aswan,Clothing,Cotton T-Shirt,679.55,118,1,Wallet,50
+1176,2024-11-29,Aswan,food & groceries,Laptop Stand,2943.96,46,4,credit card,63
+1177,2024-01-28,Alexandria,Books,History Book,274.27,50,5,Cash,22
+1178,2024-05-28,Mansoura,Food & Groceries,Rice 5kg,57.26,120,3,Wallet,18
+1179,2024-03-04,Cairo,Books,Cookbook,367.21,151,5,Credit Card,54
+1180,2024-10-08,Cairo,Clothing,Leather Belt,1720.04,80,2,Wallet,27
+1181,2024-06-10,Mansoura,Books,Children's Storybook,309.21,111,1,Wallet,26
+1182,2025-01-10,cairo,Electronics,Smartwatch,2001.56,161,5,Wallet,55
+1183,2024-08-25,Alexandria,Clothing,Summer Dress,412.72,57,3,Credit Card,41
+1184,2024-09-22,Cairo,Electronics,Laptop Stand,3255.69,87,4,Cash,42
+1185,2024-07-26,Aswan,Electronics,USB-C Cable,2147.57,91,3,Credit Card,39
+1186,2024-09-02,Alexandria,Electronics,Bluetooth Speaker,976.74,166,2,Cash,64
+1187,2024-02-13,Alexandria,Food & Groceries,Tea Pack,366.28,150,3,Cash,42
+1188,2024-09-24,Cairo,Clothing,Wool Scarf,1139.69,50,0,Bank Transfer,41
+1189,2024-08-07,Aswan,Electronics,Power Bank,2303.99,92,3,Cash,25
+1190,2024-04-15,Aswan,Books,Children's Storybook,204.01,121,5,Bank Transfer,37
+1191,2024-07-22,Mansoura,Clothing,Cotton T-Shirt,810.93,33,1,Bank Transfer,45
+1192,08/07/2024,Aswan,Food & groceries,Self-Help Guide,338.88,71,5,Credit Card,61
+1193,2024-01-01,Mansoura,Food & Groceries,Tea Pack,48.61,160,5,Wallet,30
+1194,2024-01-03,CAIRO,Books,Children's Storybook,333.0,167,4,Wallet,47
+1195,2024-01-15,Alexandria,Clothing,Running Shoes,732.61,87,3,Bank Transfer,31
+1196,2025-01-17,Alexandria,Books,Cookbook,343.88,47,4,Cash,41
+1197,2024-10-21,Giza,Food & Groceries,Dates Box,111.82,158,2,Bank Transfer,18
+1198,2024-10-24,Giza,Clothing,Running Shoes,1161.59,73,3,Credit Card,54
+1199,2025-01-04,Alexandria,Clothing,Wool Scarf,441.4,152,4,Cash,62
+1200,2024-05-10,Giza,Books,Self-Help Guide,335.41,109,2,Credit Card,36
+1201,2024-09-06,Aswan,Books,History Book,109.25,106,4,Credit Card,38
+1202,2024-05-16,Giza,Food & Groceries,Rice 5kg,518.36,84,1,Cash,48
+1203,2024-07-22,Aswan,Clothing,Cotton T-Shirt,1611.03,92,5,Wallet,38
+1204,2024-10-03,Aswan,Clothing,Summer Dress,1191.23,154,3,Cash,41
+1205,,Giza,Books,History Book,293.84,1040,5,Wallet,53
+1206,2025-01-01,Mansoura,Clothing,Summer Dress,1651.42,92,3,Credit Card,25
+1207,2024-05-19,Aswan,Electronics,Bluetooth Speaker,1484.88,22,4,Bank Transfer,47
+1208,2024-02-11,GIZA,Electronics,USB-C Cable,1107.21,23,2,Credit Card,20
+1209,2024-02-18,Giza,Books,Cookbook,74.34,84,3,Credit Card,33
+1210,2024-03-26,Cairo,Food & Groceries,Spice Set,247.98,43,1,Cash,32
+1211,2024-11-26,Mansoura,Books,Cookbook,73.43,158,2,Bank Transfer,56
+1212,2024-02-05,Mansoura,Electronics,Smartwatch,1891.98,113,1,Bank Transfer,61
+1213,2024-11-09,Cairo,Electronics,Smartwatch,1050.28,69,4,wallet,32
+1214,2024-04-16,Cairo,Books,Self-Help Guide,362.75,34,1,Cash,51
+1215,2024-09-29,Alexandria,Food & Groceries,Spice Set,397.63,129,2,Credit Card,56
+1216,2024-06-10,Mansoura,Books,Self-Help Guide,245.51,85,,Cash,56
+1217,,Giza,Electronics,Smartwatch,3196.82,162,1,Credit Card,55
+1218,2024-06-02,Giza,Food & Groceries,Dates Box,543.45,44,5,Wallet,45
+1219,2025-01-29,Mansoura,Electronics,Smartphone Case,1641.13,76,4,Cash,36
+1220,2024-06-21,GIZA,Books,Arabic Novel,207.73,143,5,Credit Card,35
+1221,2024-10-21,Giza,Books,Self-Help Guide,321.69,133,2,Cash,21
+1222,2024-03-16,CAIRO,Books,History Book,172.84,159,4,Cash,60
+1223,2024-01-31,Cairo,Electronics,Power Bank,3084.52,47,4,Cash,49
+1224,2024-04-05,Cairo,Clothing,Summer Dress,958.39,110,5,Wallet,19
+1225,2024-04-25,Mansoura,Clothing,Wool Scarf,402.04,104,2,Credit Card,37
+1226,2024-03-10,Aswan,Books,Running Shoes,1715.19,57,4,Wallet,30
+1227,2025-01-25,Aswan,Clothing,Denim Jacket,742.78,148,3,Bank Transfer,30
+1228,2024-01-08,Alexandria,Clothing,Cotton T-Shirt,1725.25,103,4,Bank Transfer,43
+1229,2024-10-31,Cairo,Food & Groceries,Rice 5kg,63.75,121,4,Cash,46
+1230,2024-05-26,Aswan,Clothing,Wool Scarf,895.3,169,2,Cash,55
+1231,2024-08-20,Alexandria,Electronics,Wireless Earbuds,2187.47,118,5,bank transfer,28
+1232,2024-12-03,Cairo,Food & Groceries,Honey Jar,470.43,50,1,Bank Transfer,49
+1233,2024-09-09,Cairo,Electronics,Bluetooth Speaker,1468.07,73,3,Wallet,23
+1234,2024-04-01,Aswan,Clothing,Wool Scarf,744.31,102,1,Cash,26
+1235,2024-06-17,Cairo,Electronics,Power Bank,2840.07,129,5,Credit Card,49
+1236,2024-09-09,Alexandria,food & groceries,Wireless Earbuds,3646.28,177,3,credit card,30
+1237,2024-02-04,,Books,Children's Storybook,253.43,69,4,Credit Card,58
+1238,2024-06-20,Aswan,Books,Self-Help Guide,167.27,104,3,Cash,42
+1239,2024-10-19,alexandria,Books,Arabic Novel,89.51,97,1,Credit Card,46
+1240,2024-09-13,Giza,Books,Cookbook,93.41,53,4,Cash,20
+1241,2024-02-14,alexandria,Electronics,USB-C Cable,2983.17,93,4,Credit Card,18
+1242,2024-02-22,Giza,Books,Denim Jacket,1622.2,27,1,Bank Transfer,56
+1243,2024-12-19,Aswan,Electronics,Smartwatch,2684.72,139,4,Credit Card,57
+1244,2024-04-03,Mansoura,electronics,Olive Oil 1L,236.81,109,1,Cash,59
+1245,2024-08-24,Mansoura,Food & Groceries,Olive Oil 1L,495.79,131,2,Bank Transfer,56
+1246,2024-08-15,CAIRO,Food & Groceries,Honey Jar,409.69,168,1,Bank Transfer,42
+1247,2024-04-15,Giza,Food & Groceries,Spice Set,-232.79,150,3,cash,53
+1248,2024-05-24,Giza,Food & Groceries,Rice 5kg,345.27,68,3,Credit Card,22
+1249,2024-09-06,Mansoura,Food & Groceries,Spice Set,278.39,161,2,Bank Transfer,33
+1250,06/10/2024,Mansoura,Books,Arabic Novel,386.99,154,3,Cash,58
+1251,2024-02-09,Giza,Electronics,Power Bank,4105.43,110,3,Wallet,54
+1252,2024-10-23,Aswan,Electronics,Smartphone Case,832.65,84,,Cash,55
+1253,2024-07-08,Aswan,Electronics,Smartphone Case,4362.85,146,4,Credit Card,64
+1254,2024-05-15,Giza,Food & Groceries,Spice Set,556.58,119,,Bank Transfer,38
+1255,2024-01-22,Aswan,Books,Children's Storybook,332.79,138,5,Credit Card,18
+1256,2024-01-07,Giza,Books,Cookbook,91.26,75,1,Bank Transfer,59
+1257,2024-02-26,Mansoura,Books,History Book,286.98,38,4,Wallet,22
+1258,2024-11-08,mansoura,Food & Groceries,Dates Box,99.5,28,3,Bank Transfer,
+1259,2024-01-20,Aswan,Electronics,USB-C Cable,3538.16,,4,Wallet,37
+1260,2024-11-27,Mansoura,Books,Cookbook,73.37,119,3,Bank Transfer,26
+1261,2024-10-30,Mansoura,electronics,Olive Oil 1L,229.12,74,4,Credit Card,32
+1262,13/03/2024,Alexandria,Clothing,Cotton T-Shirt,232.43,136,1,Bank Transfer,57
+1263,2024-08-06,Cairo,Clothing,Running Shoes,1458.62,105,4,Credit Card,55
+1264,2024-11-19,Mansoura,electronics,Wireless Earbuds,3268.31,141,3,Credit Card,20
+1265,2024-11-09,Cairo,Clothing,Denim Jacket,1024.83,158,2,Credit Card,48
+1266,2024-01-23,Aswan,Food & Groceries,Olive Oil 1L,69.38,27,2,Wallet,65
+1267,2025-02-02,Alexandria,Books,Dates Box,311.27,176,2,Wallet,30
+1268,2024-10-18,Alexandria,Books,Cookbook,265.24,176,5,Bank Transfer,31
+1269,,Alexandria,Books,History Book,363.22,166,1,Cash,43
+1270,2024-02-20,Mansoura,Clothing,Denim Jacket,544.45,98,5,Bank Transfer,26
+1271,2024-07-08,CAIRO,Food & Groceries,Spice Set,58.32,176,1,Cash,61
+1272,2024-07-15,Aswan,Electronics,USB-C Cable,1159.79,49,5,Credit Card,35
+1273,2024-01-28,Cairo,Food & Groceries,Spice Set,502.21,114,1,Cash,29
+1274,2024-02-25,Alexandria,Electronics,Smartphone Case,3166.09,127,3,Credit Card,51
+1275,2024-06-24,Aswan,Food & Groceries,Rice 5kg,113.89,86,3,Wallet,28
+1276,2024-10-01,Alexandria,Clothing,Denim Jacket,1789.73,114,1,Credit Card,52
+1277,2024-03-03,Mansoura,food & groceries,Cookbook,245.69,95,5,Bank Transfer,25
+1278,2024-03-12,Aswan,Clothing,Wool Scarf,688.5,154,3,Bank Transfer,23
+1279,2024-09-08,Giza,Food & Groceries,Dates Box,279.48,108,5,Bank Transfer,44
+1280,2025-01-07,Aswan,Electronics,Bluetooth Speaker,2293.38,36,4,Wallet,53
+1281,2024-03-11,Giza,Books,History Book,-217.57,87,4,Wallet,49
+1282,2024-01-15,Giza,Food & Groceries,Tea Pack,184.43,50,1,Cash,47
+1283,2024-03-24,Cairo,Books,Children's Storybook,378.35,66,2,Wallet,62
+1284,2024-10-23,Mansoura,Food & Groceries,Honey Jar,131.3,68,5,Cash,22
+1285,2024-01-09,Aswan,Books,Cookbook,69.78,56,2,Cash,48
+1286,2024-02-25,Giza,Electronics,Wireless Earbuds,343.14,174,2,Credit Card,35
+1287,2024-03-23,Cairo,Electronics,Smartwatch,358.73,92,1,Credit Card,63
+1288,2024-04-04,Mansoura,Food & Groceries,Dates Box,268.24,139,3,Cash,49
+1289,2024-11-03,Mansoura,Books,History Book,83.67,114,4,Cash,43
+1290,2024-02-22,Alexandria,Books,Cookbook,396.82,147,5,Bank Transfer,60
+1291,2024-09-05,Mansoura,Food & Groceries,Dates Box,115.38,37,2,Credit Card,57
+1292,2025-01-19,Mansoura,Food & Groceries,Tea Pack,232.42,28,1,Bank Transfer,20
+1293,2025-02-03,Mansoura,Food & Groceries,Olive Oil 1L,314.71,140,5,Bank Transfer,40
+1294,01/02/2024,Aswan,Electronics,Smartwatch,1733.28,111,2,Cash,22
+1295,,Mansoura,clothing,Honey Jar,369.27,119,4,Wallet,60
+1296,2024-07-05,Cairo,Clothing,Running Shoes,640.58,179,5,Cash,51
+1297,2024-02-09,Aswan,Books,Cookbook,145.43,160,5,Credit Card,65
+1298,2024-11-22,Aswan,Electronics,USB-C Cable,2242.44,96,1,Wallet,59
+1299,2024-04-30,Giza,Food & Groceries,Rice 5kg,284.23,60,3,Cash,49
+1300,2024-02-12,GIZA,Books,Arabic Novel,345.54,166,5,Wallet,23
+1301,2024-06-09,Alexandria,Food & Groceries,Dates Box,138.09,85,5,Wallet,48
+1302,2024-03-15,Aswan,Electronics,Smartwatch,3655.55,81,3,Credit Card,
+1303,2024-07-20,Alexandria,Books,Cookbook,114.48,124,1,Bank Transfer,39
+1304,2024-02-21,Aswan,Books,History Book,319.07,133,4,Cash,33
+1305,2024-11-28,Giza,Food & Groceries,Rice 5kg,114.77,103,4,Bank Transfer,54
+1306,2024-10-12,Alexandria,Books,Cookbook,205.83,114,1,Bank Transfer,49
+1307,2024-04-07,Mansoura,Clothing,Wool Scarf,1140.14,68,2,Credit Card,33
+1308,2024-08-22,Mansoura,Clothing,Leather Belt,848.43,162,2,cash,50
+1309,2024-07-21,Alexandria,Books,Cookbook,376.31,101,3,Credit Card,35
+1310,2024-05-24,Aswan,Books,History Book,167.28,58,4,Credit Card,48
+1311,2024-08-11,Aswan,Food & Groceries,Rice 5kg,513.67,43,2,Credit Card,18
+1312,2024-08-01,Giza,Electronics,Smartphone Case,3158.69,47,1,Bank Transfer,35
+1313,2024-01-23,Aswan,Clothing,Denim Jacket,1472.57,38,1,Bank Transfer,31
+1314,2024-05-25,Mansoura,Books,Self-Help Guide,286.28,145,3,Bank Transfer,57
+1315,2024-02-17,Alexandria,Food & Groceries,Tea Pack,333.82,142,3,Wallet,53
+1316,2024-02-25,Giza,Books,Children's Storybook,321.34,138,4,Wallet,64
+1317,2024-11-15,Alexandria,Clothing,Cotton T-Shirt,1146.69,156,1,Bank Transfer,65
+1318,2024-11-12,Mansoura,Books,Arabic Novel,64.72,68,2,Credit Card,47
+1319,2024-02-29,Mansoura,Electronics,Smartwatch,1319.04,,4,wallet,43
+1320,2024-11-09,Cairo,Electronics,Power Bank,2623.67,141,3,Credit Card,30
+1260,2024-11-27,Mansoura,Books,Cookbook,73.37,119,3,Bank Transfer,26
+1113,2024-11-23,Giza,Food & Groceries,Tea Pack,417.21,171,1,Wallet,50
+1301,2024-06-09,Alexandria,Food & Groceries,Dates Box,138.09,85,5,Wallet,48
+1174,2024-09-08,Giza,Clothing,Denim Jacket,1447.33,123,2,Wallet,57
+1309,2024-07-21,Alexandria,Books,Cookbook,376.31,101,3,Credit Card,35
+1240,2024-09-13,Giza,Books,Cookbook,93.41,53,4,Cash,20
